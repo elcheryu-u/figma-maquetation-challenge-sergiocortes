@@ -332,7 +332,7 @@ img {
 
 @media only screen and (max-width: 660px) {
     #cards > * {
-        grid-column: 1 / span 12 !important;
+        grid-column: 1 / 13 !important;
     }
     .content .sidebar {
         flex-direction: column;
