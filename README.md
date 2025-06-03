@@ -1,1 +1,1 @@
-# Owner-avatar-figma-maquetation-challenge-sergiocortes
+# Figma maquetation challenge / sergio cortes
